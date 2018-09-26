@@ -10,6 +10,7 @@ namespace types
     {
         static void Main(string[] args)
         {
+            Console.WriteLine();
         }
     }
 }
