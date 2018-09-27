@@ -60,8 +60,7 @@ namespace Age_and_Weight
 
             Console.WriteLine("------------------------------------------------");
 
-            Console.WriteLine("Dear " + x + " " + y + " " + "You are" + " " + resault + " " + "years old" + resault1 + " " + b);
-
+            Console.WriteLine($"Dear {x} {y} You are {resault} years old {resault1} {b}");
             Console.ReadKey();
         }
     }
