@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calclator Switch case", "Calclator Switch case\Calclator Switch case.csproj", "{457D9C2D-D7D2-4D91-8984-6B9F69BCCD1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{457D9C2D-D7D2-4D91-8984-6B9F69BCCD1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{457D9C2D-D7D2-4D91-8984-6B9F69BCCD1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{457D9C2D-D7D2-4D91-8984-6B9F69BCCD1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{457D9C2D-D7D2-4D91-8984-6B9F69BCCD1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDB7E220-64CB-4327-B768-810B870738AD}
+	EndGlobalSection
+EndGlobal
