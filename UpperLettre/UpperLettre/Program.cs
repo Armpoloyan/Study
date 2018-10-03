@@ -10,11 +10,10 @@ namespace UpperLettre
     {
         static void Main(string[] args)
         {
-            String upperLetrre;
-            Console.WriteLine("please enter lattre   ");
-
-            upperLetrre = Console.ReadLine();
-            Console.WriteLine(upperLetrre.ToUpper());
+            String upperLettre;
+            Console.WriteLine("please enter lettre   ");
+            upperLettre = Console.ReadLine();
+            Console.WriteLine(upperLettre.ToUpper());
             Console.ReadKey();
         }
     }
