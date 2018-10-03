@@ -35,7 +35,7 @@ namespace Calclator_Switch_case
                     result = FirstNumber + SecondNumber;
                     break;
                 case "-"://if operation =="-"
-                    result = FirstNumber + SecondNumber; 
+                    result = FirstNumber - SecondNumber; 
                     break;
                 case "*"://if operation =="*"
                     result = FirstNumber * SecondNumber;
