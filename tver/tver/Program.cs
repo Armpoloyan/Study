@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace tver
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+           
+            Console.Write("Please enter the First number: ");
+
+            int FirstNumber = Convert.ToInt32(Console.ReadLine());
+
+            /* if (FirstNumber>=10 && FirstNumber < 100)
+
+                Console.WriteLine( "erknish");
+             else if (FirstNumber < 0)
+                Console.WriteLine("bacasakan");
+            else if (FirstNumber >= 100)
+                Console.WriteLine("mec 100 ic");*/
+
+            Console.WriteLine((FirstNumber<0) ? "bacasakan" :( (FirstNumber>9 && FirstNumber<100) ? "erknish" : "mec 100 "));
+
+            Console.ReadKey(); 
+        }
+    }
+}
