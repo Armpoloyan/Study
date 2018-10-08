@@ -142,7 +142,7 @@ namespace homeWork_5
 
 
             */
-            /*
+            
 
 
            Console.WriteLine("--------------------------------------");
@@ -157,15 +157,15 @@ namespace homeWork_5
            if (A >= B)
            Console.WriteLine("B petq e mec lini A-ic ");
 
-              bool flag = false;
+              
                string Bajanarar = "Chka 3-i bajanvox tiv";
 
-              for (int i = A; i <= B && !flag ; i++)
+              for (int i = A; i <= B  ; i++)
                { if
                   (i % 3 == 0)
                    {
                       Bajanarar = $"3-i bajanvox tiv@ klini {i}";
-                      flag = true;
+                      break;
                    }
 
                }
@@ -173,7 +173,7 @@ namespace homeWork_5
                Console.ReadKey();
 
 
-            */
+            
             /*
 
 
@@ -257,7 +257,9 @@ namespace homeWork_5
 
 
             */
-
+            /*
+             
+              
             // Խնդիր_13:
             // Տրված է N բնական թիվը։ Հաշվել այդ թվի քառակուսին՝ 
             //օգտագործելով հետևյալ բանաձևը.N2 = 1 + 3 + 5 + … +(2 * N – 1).
@@ -275,6 +277,7 @@ namespace homeWork_5
             }
 
                         Console.ReadKey();
+                        */
         }
 
     }
