@@ -4,16 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Homework_7_10._12._18
-
-
-       //Խնդիր_16:
-      //Հաշվել տրված բնական թվի թվանշանների գումարը,
-      // քանակը, 
-      //արտադրյալը։
+namespace Exercize16
+//Խնդիր_16:
+//Հաշվել տրված բնական թվի թվանշանների գումարը,
+// քանակը, 
+//արտադրյալը։
 
 {
-    class Program   
+    class Program
     {
         /// <summary>
         /// 
@@ -70,6 +68,6 @@ namespace Homework_7_10._12._18
             Console.ReadKey();
 
         }
-        
+
     }
 }
