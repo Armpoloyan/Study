@@ -17,11 +17,14 @@ namespace EX_14_15
             //թվանշանների գումարի կրկնապատիկին, no՝ հակառակ դեպքում։
 
             Console.WriteLine("enter number N");
+          
             int N= int.Parse(Console.ReadLine());
             int a = 0;
+
             for (int i = N; i>=1; i--)
             {
-                a
+                a = N % 10 ;
+
             }
         }
     }
